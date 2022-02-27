@@ -1,0 +1,1 @@
+-o C:/My_Designs/VGA_mk2/VGA_mk2/compile -lc C:/My_Designs/VGA_mk2/library.cfg -fl C:/My_Designs/VGA_mk2/VGA_mk2/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -epr C:/My_Designs/VGA_mk2/VGA_mk2/compile/VGA_mk2.epr -O2 -sve -msg 5 -sv2k12 -work VGA_mk2 C:/My_Designs/VGA_mk2/VGA_mk2/src/image_storage.v 

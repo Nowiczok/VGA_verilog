@@ -1,0 +1,6 @@
+i<>.\src\sync_generator.v
+i<>.\src\sync_generator_tb.v
+i<>.\src\VGA_mod.v
+i<>.\src\VGA_mod_tb.v
+i<>.\src\image_storage.v
+i<>.\src\Top.bde
